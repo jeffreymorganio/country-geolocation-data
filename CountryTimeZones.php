@@ -5,7 +5,7 @@
  */
 
 /*
- * Map a two-letter countro code onto the name of the country's time zone.
+ * Map a two-letter country code onto the name of the country's time zone.
  * Countries with multiple time-zones are represented by an array of time-zone
  * name and time-zone longitude pairs. 
  */
